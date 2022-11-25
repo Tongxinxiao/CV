@@ -1,3 +1,3 @@
 # Résumé
 
-Fork from https://github.com/billryan/resume/
+Forked from [billryan/resume](https://github.com/billryan/resume/)
